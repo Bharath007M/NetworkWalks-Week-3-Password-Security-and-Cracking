@@ -77,27 +77,15 @@ This week focused on Password Security and Cracking, exploring password-cracking
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF7F&center=true&vCenter=true&width=450&lines=ALL+ESSENTIAL+PROJECTS+COMPLETED!;WEEK+3+SUCCESSFULLY+FINISHED!" />
 
 </div>
-
 ## `06 // PROJECT EVIDENCE`
 
-Screenshots of the practical activities and project results can be added to the `screenshots/` directory.
+All screenshots of the Week 3 practical exercises, tool executions, and lab results are available in the `screenshot/` directory.
 
-Suggested folder structure:
+These screenshots document the hands-on activities completed using John the Ripper (JTR), NetworkWalks Tools, and Kali Linux.
 
-```text
-Week-03/
-│
-├── README.md
-│
-├── PM1-JTR/
-│   └── screenshots/
-│
-├── PM2-NW-Tools/
-│   └── screenshots/
-│
-└── report/
-    └── Week_3_Project_Report.pdf
-```
+📸 **Evidence Folder:** [`screenshot/`](screenshot/)
+
+
 
 ## `07 // LEARNING OUTCOMES`
 
